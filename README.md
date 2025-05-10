@@ -20,8 +20,8 @@
 
 ### 前端 (Frontend)
 
--   **TypeScript**: 主要编程语言 (推断)
--   *(可以补充具体的前端框架，如 React, Vue, Angular 等)*
+-   **js**: 主要编程语言 
+
 
 ## 主要功能
 
